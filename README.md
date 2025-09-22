@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 ## Запуск
 
-python ind.py
+python index.py
