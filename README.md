@@ -24,7 +24,9 @@
 Клонируй репозиторий и установи зависимости:
 
 git clone https://github.com/alekcmirniy/ParserFromMetanit_Guides.git
+
 cd ParserFromMetanit_Guides
+
 pip install -r requirements.txt
 
 ## Запуск
