@@ -1,0 +1,103 @@
+Введение. Установка Android Studio и Android SDK
+Первый проект в Android Studio
+Создание графического интерфейса
+Создание интерфейса в коде java
+Определение интерфейса в файле XML. Файлы layout
+Определение размеров
+Ширина и высота элементов
+Внутренние и внешние отступы
+ConstraintLayout
+Размеры элементов в ConstraintLayout
+Цепочки элементов в ConstraintLayout
+Программное создание ConstraintLayout и позиционионирование
+LinearLayout
+RelativeLayout
+TableLayout
+FrameLayout
+GridLayout
+ScrollView
+Gravity и позиционирование внутри элемента
+Вложенные layout
+TextView
+EditText
+Button
+Приложение Калькулятор
+Всплывающие окна. Toast
+Snackbar
+Checkbox
+ToggleButton
+RadioButton
+DatePicker
+TimePicker
+Ползунок SeekBar
+Работа с ресурсами
+Ресурсы строк
+Ресурсы dimension
+Ресурсы Color и установка цвета
+Activity и жизненный цикл приложения
+Файл манифеста AndroidManifest.xml
+Введение в Intent. Запуск Activity
+Передача данных между Activity. Сериализация
+Parcelable
+Получение результата из Activity
+Взаимодействие между Activity
+Ресурсы изображений
+ImageView
+Изображения из папки assets
+ListView и ArrayAdapter
+Ресурс string-array и ListView
+Выбор элемента в ListView
+Добавление и удаление в ArrayAdapter и ListView
+Расширение списков и создание адаптера
+Оптимизация адаптера и View Holder
+Сложный список с кнопками
+Выпадающий список Spinner
+Виджет автодополнения AutoCompleteTextView
+GridView
+RecyclerView
+Обработка выбора элемента в RecyclerView
+Стили
+Темы
+Создание меню
+Группы в меню и подменю
+Введение во фрагменты
+Жизненный цикл фрагментов
+Взаимодействие между фрагментами
+Фрагменты в альбомном и портретном режиме
+Создание потоков и визуальный интерфейс
+Потоки, фрагменты и ViewModel
+Класс AsyncTask
+AsyncTask и фрагменты
+WebView
+Загрузка данных и класс HttpURLConnection
+Работа с видео
+Воспроизведение аудио
+Сохранение состояния приложения
+Создание и получение настроек SharedPreferences
+PreferenceFragmentCompat
+Чтение и сохранение файлов
+Размещение файлов во внешнем хранилище
+Подключение к базе данных SQLite
+SQLiteOpenHelper и SimpleCursorAdapter, получение данных из SQLite
+Добавление, удаление и обновление данных в SQLite
+Использование существующей БД SQLite
+Динамический поиск по базе данных SQLite
+Модель, репозиторий и работа с базой данных
+ViewPager2 и разделение приложения на страницы
+Заголовки страниц и TabLayout
+Введение в сервисы Android
+DatePickerDialog и TimePickerDialog
+DialogFragment и создание своих диалоговых окон
+Передача данных в диалоговое окно
+Взаимодействие диалогового окна с Activity
+Cell-анимация
+Tween-анимация
+Работа с контактами
+Добавление контактов
+Создание провайдера контента. Часть 1
+Создание провайдера контента. Часть 2
+Создание провайдера контента. Часть 3
+Асинхронная загрузка данных
+Работа с json
+Ресурсы XML и их парсинг
+Получение xml по сети

@@ -1,0 +1,128 @@
+Что такое Jetpack Compose
+Установка Android Studio
+Первый проект на Jetpack Compose
+Создание визуального интерфейса
+Создание компонентов Composable
+Взаимодействие с кодом Kotlin
+Gradle
+Добавление зависимостей
+Файл манифеста AndroidManifest.xml
+Что такое модификаторы
+Установка цвета
+Установка размеров
+Установка отступов и смещения
+Создание прокрутки
+Создание границы. Модификатор border
+Модификатор clip. Создание фрагмента компонента
+Создание тени и модификатор shadow
+Обработка нажатий
+Переопределение и объединение модификаторов
+Box
+Column
+Row
+Композиции контейнеров
+Surface
+Списки LazyColumn и LazyRow
+Грид
+LazyVerticalStaggeredGrid и LazyHorizontalStaggeredGrid
+FlowRow и FlowColumn
+IntrinsicSize
+Программная прокрутка
+Прикрепленные заголовки
+Модификатор aspectRatio
+Интерфейс Edge-to-edge, enableEdgeToEdge и WindowInsets
+Введение в состояние компонентов
+Однонаправленный поток данных
+CompositionLocal
+Производное состояние
+Text
+Аннотированные строки
+Кнопка Button
+Ввод текста, TextField и OutlinedTextField
+Модификатор Modifier.toggleable
+Checkbox
+Выбираемый компонент и модификатор selectable
+RadioButton
+Иконки и компоненты IconButton и IconToggleButton
+FloatingActionButton и ExtendedFloatingActionButton
+Панели приложения TopAppBar и BottomAppBar
+Scaffold
+Всплывающие сообщения и Snackbar
+Выдвижная панель ModalNavigationDrawer
+Slider
+Переключатель Switch
+Диалоговые окна AlertDialog
+Меню DropdownMenu
+Индикаторы прогресса
+AndroidView
+Ресурсы строк
+Ресурсы dimension
+Ресурсы Color
+Компонент Image
+Ресурсы изображений и ImageBitmap
+Векторная графика и ImageVector
+Создание модификаторов компоновки
+Создание контейнеров компоновки
+Подключение ConstraintLayout
+Установка ограничений в ConstraintLayout
+Создание цепочек компонентов
+Направляющие линии guildeline
+Барьеры
+Наборы ограничений ConstraintSet
+Введение в корутины
+LaunchedEffect
+Потоки Flow
+StateFlow
+SharedState
+Введение в пагинацию
+Пример пагинации. Навигационные кнопки
+Анимация Dp. animateDpAsState
+Функция tween. Время и сглаживание анимации
+Функция repeatable и повторение анимации
+Функция spring и эффект отскока
+Функция keyframes и анимация по ключевым кадрам
+Анимация цвета. animateColorAsState
+Анимация числовых значений и animateFloatAsState
+Объединение анимаций
+AnimatedVisibility. Управление видимостью компонента
+Настройка анимации в AnimatedVisibility
+Модификатор animateEnterExit()
+Crossfade
+Компонент Canvas и DrawScope
+Отрисовка линий
+Отрисовка прямоугольников
+Отрисовка кругов и овалов
+Отрисовка дуги
+Рисование геометрических путей
+Отрисовка точек
+Вывод текста
+Отрисовка изображений
+Трансформации
+Создание градиента
+Хранение состояния во ViewModel и взаимодействие с интерфейсом
+LiveData
+Пример приложения с VieModel
+AndroidViewModel
+SQLite и Room
+Основные элементы Room
+Пример работы с SQLite и Room
+Введение в навигацию
+Пример навигации
+Параметры навигации
+Панель навигации
+Жесты нажатия
+Петаскивание
+Перетаскивание с помощью PointerInputScope
+Перетаскивание по опорным точкам
+Прокрутка
+Масштабирование, вращение и перемещение
+Activity и жизненный цикл приложения
+Управление жизненным циклом Activity в компонентах Compose
+Введение в Intent. Запуск Activity
+Передача данных между Activity
+Кнопка прокрутки
+Темы. Material Design
+Биометрическая аутентификация
+Настройки SharedPreferences
+Сетевые запросы
+Локализация приложений
