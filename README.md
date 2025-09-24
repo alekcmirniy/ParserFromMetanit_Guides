@@ -10,7 +10,11 @@
 ## 🚀 Быстрый старт
 ```bash
 git clone https://github.com/alekcmirniy/ParserFromMetanit_Guides.git
+```
+```bash
 cd ParserFromMetanit_Guides
+```
+```bash
 pip install -r requirements.txt
 python index.py
 ```
@@ -18,7 +22,7 @@ python index.py
 ## 🛠 Технологии
 - Python 3, requests, BeautifulSoup4, os, re
 
-## 📁 Примерная структура
+## 📁 Структура
 ```text
 ParserFromMetanit_Guides/
 ├── index.py
