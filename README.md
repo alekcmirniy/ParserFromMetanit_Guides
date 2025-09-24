@@ -23,7 +23,7 @@ python index.py
 ParserFromMetanit_Guides/
 ├── index.py
 ├── requirements.txt
-└── output/    # созданные папки и .txt
+└── ...outputs/    # созданные папки, в них .txt
 ```
 
 ## 📄 Лицензия
