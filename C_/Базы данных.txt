@@ -1,0 +1,6 @@
+Руководство по Entity Framework Core 9
+Руководство по работе с MongoDB в C#
+Руководство по ADO.NET и работе с базами данных в C#
+Руководство по Entity Framework Core 5
+Руководство по ADO.NET и работе с базами данных
+Руководство по Entity Framework

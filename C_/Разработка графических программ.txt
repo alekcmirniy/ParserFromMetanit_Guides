@@ -1,0 +1,7 @@
+Руководство по GTK
+Руководство по .NET MAUI
+Xamarin Forms
+Руководство по Universal Windows Platform
+Программирование в Windows Forms
+Руководство по WPF
+Руководство по Windows Phone 8.1

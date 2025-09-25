@@ -45,13 +45,14 @@ if response.status_code == 200:
                         theme_res = requests.get(url, headers=headers)
                         if theme_res.status_code == 200:
                             theme_soup = BeautifulSoup(theme_res.text, 'html.parser')
-                            for e in theme_soup.find_all('ol', {"class": "subsubcontent"}):
-                                for child in e.children:
-                                    if hasattr(child, "text") and child.text.strip():
-                                        theme_file.write(child.text.strip() + '\n')
-
+                            finded_links = theme_soup.find_all("a", href=True)
+                            finded_names = theme_soup.find_all('ol', {"class": "subsubcontent"})
+                            if len(finded_names) == 0:
+                                finded_names = theme_soup.find_all('ul', {"class": "contpage"})
+                            for e in finded_names:
+                                for a in e.find_all("a", href=True):
+                                    theme_file.write(a.get_text(strip=True) + '\n')
         os.chdir("..")
-
     print("Данные записаны в файл")
 else:
     print(f"Ошибка запроса: {response.status_code}")

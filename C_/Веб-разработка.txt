@@ -1,0 +1,11 @@
+Руководство по ASP.NET 9 Core
+Руководство по фреймворку Blazor
+Руководство по созданию сервисов gRPC
+Руководство по SignalR в ASP.NET
+Руководство по ASP.NET Core Razor Pages
+Руководство по ASP.NET Core MVC
+Angular и ASP.NET Core
+Руководство по ASP.NET 5 Core
+Руководство по Web API
+Руководство по ASP.NET MVC 5
+Онлайн-книга Изучаем ASP.NET MVC 4
